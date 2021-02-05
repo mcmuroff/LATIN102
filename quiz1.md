@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. 
 Translate prepositional phrases.
@@ -13,7 +15,7 @@ Translate prepositional phrases.
 5. parentes
 - Masculine, nominative, plural
 6. ad uxorem
-- Feminine, ad + accusative, singular. Towards the wives.  
+- Feminine, ad + accusative, singular. Towards the wives.  ❌
 
 Part 2: recognizing verbs
 For each of the following verbs, identify the tense, voice, mood, person, and number.
@@ -27,7 +29,7 @@ If the form is singular, convert to plural; if the form is plural, convert to si
 4. rogaretur
 - Passive, subjunctive, imperfect, third person, singular. Rogarentur.
 5. coepit
-- Active, indicative, perfect, third person, singular. Coepiunt. 
+- Active, indicative, perfect, third person, singular. Coepiunt. ❌
 6. interfecisset
 - Active, subjunctive, pluperfect, third person, singular. Interfecissent.
 7. misit
@@ -42,15 +44,15 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 2. Centaurs were being killed by Hercules. (Use the perfect tense)
 - Interfecti sunt (perfect passive indicative)
 3. Centaurs were killed by Hercules. (Use the perfect tense)
-- Interfecerunt (perfect active indicative)
+- Interfecerunt (perfect active indicative) ❌ Could you do this one in the imperfect?
 4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-- Interficit (present active indicative)
+- Interficit (present active indicative) ❌
 5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-- Interfecit (perfect active indicative)
+- Interfecit (perfect active indicative) ❌
 6. Hercules led Deianira in marriage (i.e., he married her).
-- Ducit (present active indicative)
+- Ducit (present active indicative) ❌
 7. Hercules repeatedly asked Eurytus for permission to marry Iole.
-- Rogat (present active indicative)
+- Rogat (present active indicative) ❌
 
 Submitting your assignment
 In your github repository, create a file named quiz.md.
