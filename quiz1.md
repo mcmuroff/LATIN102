@@ -56,7 +56,7 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 - REVISED 1: Vidit 
 6. Hercules led Deianira in marriage (i.e., he married her).
 - Ducit ❌
-- Adduxit
+- REVISED 1: Adduxit
 7. Hercules repeatedly asked Eurytus for permission to marry Iole.
 - Rogat ❌
 - REVISED 1: Rogabat
