@@ -41,20 +41,25 @@ If the form is singular, convert to plural; if the form is plural, convert to si
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-1. Centaurs are being killed by Hercules. (Use the present tense)
-- Interficiuntur (present passive indicative)
-2. Centaurs were being killed by Hercules. (Use the perfect tense)
-- Interfecti sunt (perfect passive indicative)
-3. Centaurs were killed by Hercules. (Use the perfect tense)
-- Interfecerunt (perfect active indicative) ❌ Could you do this one in the imperfect?
+1. Centaurs are being killed by Hercules.
+- Interficiuntur 
+2. Centaurs were being killed by Hercules. 
+- Interfecti sunt
+3. Centaurs were killed by Hercules. 
+- Interfecerunt ❌ Could you do this one in the imperfect?
+- REVISED 1: Interfecti sunt.
 4. When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-- Interficit (present active indicative) ❌
+- Interficit ❌
+- REVISED 1: Interfecisset.
 5. At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-- Interfecit (perfect active indicative) ❌
+- Interfecit ❌
+- REVISED 1: Vidit 
 6. Hercules led Deianira in marriage (i.e., he married her).
-- Ducit (present active indicative) ❌
+- Ducit ❌
+- Adduxit
 7. Hercules repeatedly asked Eurytus for permission to marry Iole.
-- Rogat (present active indicative) ❌
+- Rogat ❌
+- REVISED 1: Rogabat
 
 Submitting your assignment
 In your github repository, create a file named quiz.md.
