@@ -34,7 +34,7 @@ C. Translation
 When Hercules was absent, the centaur Eurytion demanded the wife Deianira. 
 Since her father was afraid of the centaur, he promised to give her to Eurytion. 
 By a fixed time, the centaur came with his brothers to the wedding. 
-Hercules interrupted and killed the centaur, lead Deianira away. 
+Hercules interrupted and killed the centaur, and he lead Deianira away. 
 
 
 
