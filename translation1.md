@@ -35,8 +35,13 @@ B. Grammatical Questions
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
 > Deianira, Deianirae (f.); form: accusative singular.  
 3. Identify the form abesset, and explain why it is this tense and mood.
+<<<<<<< HEAD
 > Third person, singular, imperfect, active, subjunctive. The imperfect and subjunctive is necessary because of the underlying subordinate clause.
 - Third person, singular, imperfect, active, subjunctive. Since the sentence is describing a circumstance in which Hercules was away, then it is appropriate to use the subjunctive. Abesset is in imperfect because it is in the secondary sequence with both clauses occurring simultaneously. The author is emphasizing the circumstance and primary/secondary sequence. Occurring at the same time. 
+=======
+> Third person, singular, imperfect, active, subjunctive. The imperfect and subjunctive is necessary because of the underlying subordinate clause. ❌
+- REVISED 1: Third person, singular, imperfect, active, subjunctive. Since the sentence is describing a circumstance in which Hercules was away, then it is appropriate to use the subjunctive. Abesset is in imperfect because it is in the secondary sequence with both clauses occurring at the same time. The author is emphasizing the circumstance.
+>>>>>>> ce7cd24d009e812c45bf80c916cf88a086d61d14
 4. Identify the form uenisset, and explain why it is this tense and mood.
 >  third person, singular, pluperfect, avtive, subjunctive. This is necessary because it is describing a circumstance. Additionally, uenisset is pluperfect because it's part of the secondary sequence and the subordinate preceds the main clause. 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
