@@ -4,25 +4,30 @@
 A. Grammatical Analysis  ❌ *Please revise this section as we did in class together.*
 
 > Hercules 
+
 >> cum in hospitium ad Dexamenum regem *uenisset* 
 
 >> eiusque filiam Deianiram *deuirginasset*, 
 
 > *volebat* eam uxorem ducere. 
->>Cum Hercules *abesset*, 
+
+>> Cum Hercules *abesset*, 
 
 > centaurus Eurytion *petit* Deianiram uxorem. 
+
 >> quia pater eius centaurum timebat, 
 
 >> *pollicitus est* 
->> se daturum.
->Tempore certo, 
->> *venit* centaurus cum fratribus ad nuptias. 
+
+>> *se daturum.*
+
+> Tempore certo, *venit* centaurus cum fratribus ad nuptias. 
 
 > Hercules *interuenit* 
 
 > et centaurum *interfecit*, 
->> Deianiram abduxit.
+
+> Deianiram abduxit.
 
 B. Grammatical Questions
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
