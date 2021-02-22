@@ -28,4 +28,4 @@ Cum Hercules ad Oechaliam venieret, is petivit si volebat eam uxorem ducere.
 Quia eius pater Eurytus noluisset, Hercules Oechaliam cepit. 
 Herclues dixit eum interfectus esse parentum eius.
 Iole patior eius parentum interficebatur. 
-Cum is interfecit eum omnes, is Iolem ad Deianiram misit.
+Cum is interfecit eum omnes, is Iole ad Deianiram misit.
