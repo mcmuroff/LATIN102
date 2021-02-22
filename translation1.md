@@ -36,7 +36,7 @@ B. Grammatical Questions
 > Deianira, Deianirae (f.); form: accusative singular.  
 3. Identify the form abesset, and explain why it is this tense and mood.
 > Third person, singular, imperfect, active, subjunctive. The imperfect and subjunctive is necessary because of the underlying subordinate clause. ❌
-- REVISED 1: Third person, singular, imperfect, active, subjunctive. Since the sentence is describing a circumstance in which Hercules was away, then it is appropriate to use the subjunctive. Abesset is in imperfect because it is in the secondary sequence with both clauses occurring simultaneously. The author is emphasizing the circumstance and primary/secondary sequence. Occurring at the same time. 
+- REVISED 1: Third person, singular, imperfect, active, subjunctive. Since the sentence is describing a circumstance in which Hercules was away, then it is appropriate to use the subjunctive. Abesset is in imperfect because it is in the secondary sequence with both clauses occurring at the same time. The author is emphasizing the circumstance.
 4. Identify the form uenisset, and explain why it is this tense and mood.
 > Third person, active, singular, pluperfect, subjunctive. Indicates a potential action. ❌
 - REVISED 1: third person, singular, pluperfect, avtive, subjunctive. This is necessary because it is describing a circumstance. Additionally, uenisset is pluperfect because it's part of the secondary sequence and the subordinate preceds the main clause. 
