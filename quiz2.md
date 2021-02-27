@@ -33,9 +33,9 @@ you could make the second sentence a relative clause like this:
 Latin relative clauses
 For each sentence in the previous section:
 
-1. translate the relative pronoun into Latin
-2. identify the antecedent of the pronoun, and its gender and number
-3. identify the case of the Latin pronoun, and explain why it is in that case
+> 1. translate the relative pronoun into Latin
+> 2. identify the antecedent of the pronoun, and its gender and number
+> 3. identify the case of the Latin pronoun, and explain why it is in that case
 
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
