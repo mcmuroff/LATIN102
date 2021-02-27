@@ -37,6 +37,7 @@ For each sentence in the previous section:
 2. identify the antecedent of the pronoun, and its gender and number
 3. identify the case of the Latin pronoun, and explain why it is in that case
 
+
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 - Relative pronoun: cum quibus 
 - Antecedent: brothers, masculine plural
