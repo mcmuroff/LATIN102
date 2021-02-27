@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Instructions:
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. (DO NOT DIRECTLY TRANSLATE THE PARAGRAPH ABOVE.)
 
@@ -24,8 +26,9 @@ patior, pati, -, passus: endure, suffer; can take a noun as direct object or an 
 peto, petĕre, petivi or petii, petitus 
 quia  
 
-Cum Hercules ad Oechaliam venieret, is petivit si volebat eam uxorem ducere. 
-Quia eius pater Eurytus noluisset, Hercules Oechaliam cepit. 
-Herclues dixit eum interfectus esse parentum eius.
-Iole patior eius parentum interficebatur. 
-Cum is interfecit eum omnes, is Iole ad Deianiram misit.
+Cum Hercules ad Oechaliam venieret❌, is petivit si volebat eam uxorem ducere. ❌
+
+Quia🤔 eius pater Eurytus noluisset❌, Hercules Oechaliam cepit. 
+Herclues dixit eum❌ interfectus❌ esse parentum❌ eius.
+Iole patior❌ eius❌ parentum❌ interficebatur❌. 
+Cum is interfecit🤔 eum omnes, is Iole❌ ad Deianiram misit.
