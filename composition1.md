@@ -32,3 +32,14 @@ Quia🤔 eius pater Eurytus noluisset❌, Hercules Oechaliam cepit.
 Herclues dixit eum❌ interfectus❌ esse parentum❌ eius.
 Iole patior❌ eius❌ parentum❌ interficebatur❌. 
 Cum is interfecit🤔 eum omnes, is Iole❌ ad Deianiram misit.
+
+REVISED 1:
+Cum Hercules Oechaliae venit, Hercules rogavit Iolen esse eum se uxorem. 
+Hercules Oechaliam cepit, quia eius pater Eurytus noluit.
+Hercules dixit interfecturum esse eius parentes.
+Iole passus est interfecisse suam parentes. 
+Cum Hercules interfecerat eum omnes, Iolem ad Deianiram misit. 
+
+
+
+
