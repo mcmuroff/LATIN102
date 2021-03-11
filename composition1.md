@@ -35,11 +35,11 @@ Cum is interfecit🤔 eum omnes, is Iole❌ ad Deianiram misit.
 
 
 REVISED 1:
-Cum Hercules Oechaliam venisset, Hercules in coniugium iolen petivit. 
-Cum pater eius nollet, Hercules Oechaliam cepit.
-Hercules dixit, se parentes eius interfecturum esse. 
-Iole patiebatur, suos parentes interfectos esse. 
-Cum Hercules eos omnes interfecisset, Iolen ad Deianiram misit. 
+> Cum Hercules Oechaliam venisset, Hercules in coniugium iolen petivit. 
+> Cum pater eius nollet, Hercules Oechaliam cepit.
+> Hercules dixit, se parentes eius interfecturum esse. 
+> Iole patiebatur, suos parentes interfectos esse. 
+> Cum Hercules eos omnes interfecisset, Iolen ad Deianiram misit. 
 
 
 
