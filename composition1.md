@@ -33,18 +33,13 @@ Herclues dixit eum❌ interfectus❌ esse parentum❌ eius.
 Iole patior❌ eius❌ parentum❌ interficebatur❌. 
 Cum is interfecit🤔 eum omnes, is Iole❌ ad Deianiram misit.
 
-REVISED 1:
-Hercules rogavit lolen esse sui uxorem, cum Hercules venit in Oechaliam. 
-Hercules Oechaliam cepit quia eius pater noluit.
-Hercules dixit eius parentes interfecturum esse.
-Iole passus est interfectosus esse suoas parentes. 
-Cum Hercules interfecerat omnes eorum, Iolen ad Deianiram misit. 
 
-REVISED 2:
+REVISED 1:
 Cum Hercules Oechaliam venisset, Hercules in coniugium iolen petivit. 
 Cum pater eius nollet, Hercules Oechaliam cepit.
-Hercules dixit, se parentes interfectos esse.
-Cum Hercules eos omnes interfecisset, iolen ad Deianiram misit. 
+Hercules dixit, se parentes eius interfecturum esse. 
+Iole patiebatur, suos parentes interfectos esse. 
+Cum Hercules eos omnes interfecisset, Iolen ad Deianiram misit. 
 
 
 
