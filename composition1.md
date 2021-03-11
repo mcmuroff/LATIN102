@@ -40,6 +40,12 @@ Hercules dixit eius parentes interfecturum esse.
 Iole passus est interfectosus esse suoas parentes. 
 Cum Hercules interfecerat omnes eorum, Iolen ad Deianiram misit. 
 
+REVISED 2:
+Cum Hercules Oechaliam venisset, Hercules in conjugium iolen petivit. 
+Cum pater eius nollet, Hercules Oechaliam cepit.
+Hercules dixit, se parentes interfectos esse.
+Cum Hercules eos omnes interfecisset, iolen ad Deianiram misit. 
+
 
 
 
