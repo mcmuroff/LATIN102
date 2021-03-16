@@ -26,15 +26,6 @@ patior, pati, -, passus: endure, suffer; can take a noun as direct object or an 
 peto, petĕre, petivi or petii, petitus 
 quia  
 
-Cum Hercules ad Oechaliam venieret❌, is petivit si volebat eam uxorem ducere. ❌
-
-Quia🤔 eius pater Eurytus noluisset❌, Hercules Oechaliam cepit. 
-Herclues dixit eum❌ interfectus❌ esse parentum❌ eius.
-Iole patior❌ eius❌ parentum❌ interficebatur❌. 
-Cum is interfecit🤔 eum omnes, is Iole❌ ad Deianiram misit.
-
-
-REVISED 1:
 > Cum Hercules Oechaliam venisset, Hercules in coniugium iolen petivit. 
 > Cum pater eius nollet, Hercules Oechaliam cepit.
 > Hercules dixit, se parentes eius interfecturum esse. 
