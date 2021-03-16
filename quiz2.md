@@ -1,3 +1,5 @@
+**Needs revisions**
+
 English relative clauses
 You are given a pair of simple English sentences (that is, a single independent clause) with a noun in common. Combine them into one complex sentence by keeping the first sentence as the independent clause, and making the second sentence a relative clause.
 
@@ -24,7 +26,7 @@ you could make the second sentence a relative clause like this:
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
 - Prometheus' heart was devoured by an eagle, which Hercules shot dead with his arrows. 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-- Lycus, by whom Hercules killed, tried to kill Megara and her sons Therimachus and Ophites. 
+- Lycus, by whom Hercules killed,❌ tried to kill Megara and her sons Therimachus and Ophites. 
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 - Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
@@ -55,21 +57,21 @@ For each sentence in the previous section:
 - Antecedent: Nessus, masculine singular
 - Case: accusative, Nessus is the direct object
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-- Relative pronoun: apud quem 
+- Relative pronoun: apud quem ❌
 - Antecedent: vial
-- Case: accusative, following the construction apud + accusative
+- Case: accusative, following the construction apud + accusative❌
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
-- Relative pronoun: quis
+- Relative pronoun: quis❌
 - Antecedent: Busiris
 - Case: nominative, Busiris is the subject in which we are referring to so nominative is necessary
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-- Relative pronoun: quem
-- Antecedent: the eagle
+- Relative pronoun: quem❌
+- Antecedent: the eagle **Gender?**
 - Case: accusative, the eagle is the direct object
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-- Relative pronoun: apud quem
+- Relative pronoun: apud quem❌
 - Antecedent: Lycus 
-- Case: accusative, following the construction apud + acc. to indicate by whom
+- Case: accusative, following the construction apud + acc. to indicate by whom❌
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 - Relative pronoun: cui
 - Antecedent: Hercules 
