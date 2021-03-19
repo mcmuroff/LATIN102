@@ -37,7 +37,7 @@ Ille moriens,
 sanguinem suum exceptum Deianirae dedit 
 > et 
 > id philtrum esse 
-> dixit.
+dixit.
 
 B. Grammatical questions
 
