@@ -18,6 +18,7 @@ non poterat transire
 > et
 > centaurum Nessum
 >> qui filius Ixionis et Nubis erat,
+
 auxilium rogavit
 
 Hic
@@ -28,6 +29,7 @@ Huc Hercules
 > cum interuenisset 
 > et 
 > Deianira cum fidem eius
+
 implorasset, 
 Nessum sagittis confixit. 
 
@@ -35,7 +37,9 @@ Ille moriens,
 > cum sciret 
 > > sagittas Hydrae Lernaeae felle tinctas magnam vim habere, 
 sanguinem suum exceptum Deianirae 
+
 dedit 
+
 et 
 > id philtrum esse 
 dixit.
