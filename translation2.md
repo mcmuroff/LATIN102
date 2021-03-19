@@ -33,12 +33,15 @@ Huc Hercules
 implorasset, 
 Nessum sagittis confixit. 
 
-Ille moriens, 
+Ille 
+> moriens, 
 > cum sciret 
-> > sagittas Hydrae Lernaeae felle tinctas magnam vim habere, 
-sanguinem suum exceptum Deianirae 
+> > sagittas 
+> > > Hydrae Lernaeae felle tinctas 
+> > magnam vim habere, 
+sanguinem suum exceptum 
 
-dedit 
+Deianirae dedit 
 
 et 
 > id philtrum esse 
