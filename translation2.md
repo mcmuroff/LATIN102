@@ -41,24 +41,24 @@ dixit.
 
 B. Grammatical questions
 
-Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-The antecedent is river which is accusative, singular, neuter. It has to be accusative singular in order to match, referring back to the river.
-Identify the form of transire. Explain why you placed it in the clause you chose.
-Present active infinitive. I put it in the phrase "to cross the river" because it follows directly after and compliments "non poterat."
-sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-Perfect passive participle paired with verb fero, ferre, tulli, latus. The form is feminine, accusative, perfect, passive, singular. (Link did not work).
-Identify the form of sagittis. Why does Hyginus use this case?
-Ablative plural. Hyginus uses the construction ablative by means, and describes the instance in which Hercules trans-fixes Nessus with arrows.
-Identify the form of moriens.
-Present active participle.
-Identify felle. Why does Hyginus use this case?
-Ablative singular, which is used for description purposes.
-Identify the form of tinctas.
-Perfect passive participle.
-Identify the form of exceptum.
-Perfect passive participle.
-William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. Submitting your work
-Ut depono moriens.
+1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
+- The antecedent is river which is accusative, singular, neuter. It has to be accusative singular in order to match, referring back to the river.
+2. Identify the form of transire. Explain why you placed it in the clause you chose.
+- Present active infinitive. I put it in the phrase "to cross the river" because it follows directly after and compliments "non poterat."
+3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
+- Perfect passive participle paired with verb fero, ferre, tulli, latus. The form is feminine, accusative, perfect, passive, singular. (Link did not work).
+4. Identify the form of sagittis. Why does Hyginus use this case?
+- Ablative plural. Hyginus uses the construction ablative by means, and describes the instance in which Hercules trans-fixes Nessus with arrows.
+5. Identify the form of moriens.
+- Present active participle.
+6. Identify felle. Why does Hyginus use this case?
+- Ablative singular, which is used for description purposes.
+7. Identify the form of tinctas.
+- Perfect passive participle.
+8. Identify the form of exceptum.
+- Perfect passive participle.
+9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. Submitting your work
+- Ut depono moriens.
 
 TRANSLATION:
 
