@@ -39,7 +39,10 @@ Ille
 > > sagittas 
 > > > Hydrae Lernaeae felle tinctas 
 > > magnam vim habere, 
-sanguinem suum exceptum 
+
+sanguinem suum 
+
+> exceptum 
 
 Deianirae dedit 
 
