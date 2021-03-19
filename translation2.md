@@ -10,7 +10,7 @@ ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim haber
 
 A. Grammatical analysis Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Deuanira
+Deianira
 > uxor Herculis
 > flumen magnum
 >> cui nomen Evenus erat
