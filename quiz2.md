@@ -27,8 +27,7 @@ you could make the second sentence a relative clause like this:
 - Prometheus' heart was devoured by an eagle, which Hercules shot dead with his arrows. 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 - Lycus, by whom Hercules killed,❌ tried to kill Megara and her sons Therimachus and Ophites.
-- REVISED:
-> Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.  
+> REVISED: Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.  
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 - Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
