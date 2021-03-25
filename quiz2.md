@@ -62,7 +62,7 @@ For each sentence in the previous section:
 > REVISED: Quo
 - Antecedent: vial
 - Case: accusative, following the construction apud + accusative❌
-> REVISED: ablative, since the relative pronoun follows the ablative of means construction. 
+> REVISED: ablative (masculine singular), since the relative pronoun follows the ablative of means construction. 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 - Relative pronoun: quis❌
 > REVISED: qui
