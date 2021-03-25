@@ -58,6 +58,7 @@ For each sentence in the previous section:
 - Antecedent: Nessus, masculine singular
 - Case: accusative, Nessus is the direct object
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
+<<<<<<< HEAD
 - Relative pronoun:  quo
 - Antecedent: blood
 - Case: ablative
@@ -73,6 +74,30 @@ For each sentence in the previous section:
 - Relative pronoun:  qui
 - Antecedent: Lycus 
 - Case: nominative because it's subject of the clause
+=======
+- Relative pronoun: apud quem ❌
+> REVISED: Quo
+- Antecedent: vial
+- Case: accusative, following the construction apud + accusative❌
+> REVISED: ablative (masculine singular), since the relative pronoun follows the ablative of means construction. 
+6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
+- Relative pronoun: quis❌
+> REVISED: qui
+- Antecedent: Busiris
+- Case: nominative, Busiris is the subject in which we are referring to so nominative is necessary
+7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+- Relative pronoun: quem❌
+> REVISED: quam
+- Antecedent: the eagle **Gender?**
+> REVISED: the eagle, feminine and singular
+- Case: accusative, the eagle is the direct object
+8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+- Relative pronoun: apud quem❌
+> REVISED: qui
+- Antecedent: Lycus 
+- Case: accusative, following the construction apud + acc. to indicate by whom❌
+> REVISED: nominative, because the relative pronoun is the subject. 
+>>>>>>> 110aa3c208e57547df80d7e9c331b486d5558281
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
 - Relative pronoun: cui
 - Antecedent: Hercules 
