@@ -25,3 +25,5 @@
 - induo, induĕre, indui, indutum “put on an article of dress or ornament”
 - statim (adv.) “immediately”
 - flammo, flammare, flammavi, flammatus “flame, burn”
+
+Deianira servum misit 
