@@ -17,7 +17,7 @@
 7. Your last sentence should express that it is reported (or said) that Hercules rose to immortality, but Deianira killed herself on account of this deed.
 
 *Vocabulary*
-In addition to your required vocabulary, consult the vocabulary notes from previous translation and composition assignments on this subject.
+> In addition to your required vocabulary, consult the vocabulary notes from previous translation and composition assignments on this subject.
 
 - famulus, famuli (m.) “servant”
 - machinor, machinari, -, machinatus “devise or contrive skillfully”;
