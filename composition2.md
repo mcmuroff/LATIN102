@@ -26,4 +26,4 @@
 - statim (adv.) “immediately”
 - flammo, flammare, flammavi, flammatus “flame, burn”
 
-Deianira servum misit 
+Deianira famulum ad procreando Herculi vestem, misit  
