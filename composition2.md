@@ -26,4 +26,4 @@
 - statim (adv.) “immediately”
 - flammo, flammare, flammavi, flammatus “flame, burn”
 
-Deianira, filia Oenei et uxor Herculis, misit famulum ad ferendam vestem tinctam in sanguine centauri Nessi Herculi, quem ea putavit esse philtrum. Hercules induit vestem, et statim flammavit. Hercules, lusus pro Nessum, iecit famulum, quem Deianira redisse vestum missus est, in mare. Hercules fuit deum, sed Deianira interfecit se ne factum ferret.   
+Cum Deianira, filia Oenei et uxor Herculis, vidit Iole, iuvenem et pulchram, adduco domum, ea machinatam sum ut ne privavi eam virum. Deianira famulum misit ad ferendam vestem tinctam in sanguine centauri Nessi Herculi, quem ea putavit esse philtrum. Hercules induit vestem, et statim flammavit. Hercules, lusus pro Nessum, iecit famulum, quem Deianira redisse vestum missus est, in mare. Hercules fuit deum, sed Deianira interfecit se ne factum ferret.   
