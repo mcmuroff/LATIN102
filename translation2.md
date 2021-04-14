@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Translation 2: Nessus and Deianira Concepts to review relative clauses participial expressions use of ablative to express means or instrument Vocabulary and notes expressing possession with the dative
 
 auxilium, auxilii (n): “aid, help” configo, configĕre, configi, confixi: “pierce, transfix” fel, fellis (n): “bile or poisonous liquid” fides, fidei (f): “faith; trustworthiness; protection or help” flumen, fluminis (n): “river” huc, adverb: “to this place” (Victorian English: “hither” 😀) imploro, implorare, imploravi, imploratus: “beg with tears, implore” philtrum, i (n): “love potion” rogo, rogare, rogavi, rogatus: “to ask for”; can take two direct objects: the person you’re asking, and the thing you’re asking for sanguis, sanguinis (m): “blood” sagitta, sagittae (f): “arrow” tingo, tingĕre, tinxi, tinctus: “soak in” transeo < trans + eo : “to cross” violo, violare, violavi, violatus: “injure, do violence to, rape” vis, vis (f): “strenght, potency, power” Passage to analyze (From Hyginus, chapter 34.)
