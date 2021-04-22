@@ -140,7 +140,7 @@ B. Grammatical questions
 
 5. Identify the form of moriens.
 - Present active participle. **Gender, case?** ❌ 
-- REVISED: nominative, masculine. 
+- REVISED: nominative, masculine, singular. 
 
 6. Identify felle. Why does Hyginus use this case?
 - Ablative singular, which is used for description purposes.❌
