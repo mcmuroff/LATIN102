@@ -32,7 +32,7 @@ Hic
 
 violare voluit. 
 
-Huc Hercules
+huc Hercules
 
 > cum interuenisset 
 
