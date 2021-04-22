@@ -94,7 +94,9 @@ Huc Hercules
 
 > et 
 
-> Deianira cum fidem eius *implorasset*, Nessum sagittis confixit.
+> Deianira cum fidem eius *implorasset*, 
+
+> Nessum sagittis confixit.
 
 Ille 
 
