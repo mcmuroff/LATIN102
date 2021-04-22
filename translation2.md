@@ -72,15 +72,15 @@ dixit.
 
 Deianira uxor Herculis flumen magnum
 
->> cui nomen Evenus erat
+> cui nomen Evenus erat
 
 non *poterat* transire
 
 et centaurum Nessum,
 
-qui filius lxionis et Nubis erat
+> qui filius lxionis et Nubis erat
 
-auxilium *rogavit*
+auxilium *rogavit*.
 
 Hic Deianiram
 
@@ -88,7 +88,7 @@ Hic Deianiram
 
 uiolare uoluit
 
-Huc Hercules
+> Huc Hercules
 
 > cum interuenisset 
 
@@ -96,7 +96,7 @@ Huc Hercules
 
 > Deianira cum fidem eius *implorasset*, 
 
-> Nessum sagittis confixit.
+Nessum sagittis *confixit*.
 
 Ille 
 
