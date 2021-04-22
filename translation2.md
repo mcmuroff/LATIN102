@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Translation 2: Nessus and Deianira Concepts to review relative clauses participial expressions use of ablative to express means or instrument Vocabulary and notes expressing possession with the dative
 
