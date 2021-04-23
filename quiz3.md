@@ -67,20 +67,38 @@ For the following verbs in various forms, list the four principal parts you woul
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 1. Luna (nominative)
+- Luna, Lunae, f.
+
 2. Minerva (nominative)
+- Minerva, Minervae, f. 
+
 3. in Phrygia
+- Phrygia, Phrygiae, f. 
+
 4. ex Creta
+- Creta, Cretae, f. 
+
 5. Thraciae rex
+- Thracia, Thraciae, f.
+
 6. cum Abdero
+-  Abderum, Abderi, n. 
+
 7. Eurystheo regi
+- Eurystheus, Eurysthei, m. 
+
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
+- Nemeus, Nemea, Nemeum 
 2. Hydram Lernaeam
+- Lernaeus, Lernaea, Leraeum
 3. aprum Erymanthium
+- Erymanthius, Erymanthia, Erymanthium
 4. aves Stymphalides
+- Stymphalides, Stymphalidei
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
-
+- Amazonus, Amazona, Amazonum 
 
 **Comparative and superlative forms**
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
