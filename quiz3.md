@@ -62,6 +62,7 @@ For the following verbs in various forms, list the four principal parts you woul
 -  soleo, solere, solui, solitus sum
 11. attulit
 - affero, afferre, attuli, allatus (-a, -um)
+
 **Dictionary skills, 3: proper nouns and adjectives**
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
