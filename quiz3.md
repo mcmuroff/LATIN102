@@ -9,30 +9,59 @@ for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
 1. uno die
+- unus, una, unum
+- dies, diei, m.
+
 2. totum stercus
+- totus, tota, totum
+- stercus, stercoris, m. 
 3. ceruum ferocem
+- cervus, cervi, m.
+- ferox, ferocis 
 4. tantam vim
+- tantus, tanta, tantum
+- vis, vis, f.
 5. sagittas suas
+- suus, sua, suum
+- sagitta, sagittae, f.
 6. cornibus aureis
+- auereus, aurea, aureum
+- cornu, cornus, n.
 7. carne humana
+- humanus, humana, humanum 
+- carnis, carnis, f.
 8. draconem immanem
+- draco, draconis, m.
+- immanis, immanis, immane
 9. mala aurea
+- malus, mala, malum
+- aurea, aureae, f.
 
 **Dictionary skills, 2: verb forms**
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 1. transierat
+- transeo, transire, transivi, transitus (-a, -um)
 2. afflabat
+- afflo, afflare, afflavi, afflatus (-a, -um)
 3. moriebatur
+- morior, morere, mortuus sum
 4. exinteravit
+- exitero, exiterare, exiteravi, exiteratus (-a, -um)
 5. effugiebat
+- effugio, effugere, effugi, effugitus (-a, -um)
 6. adduxit
+- adduco, adducere, adduxi, adductus (-a, -um)
 7. iaculabantur
+- iaculor, iaculari, iaculatus sum
 8. vescebantur
+- vescor, vescere, vesci
 9. detraxit
+- detraho, detrahere, detraxi, detractus (-a, -um)
 10. solitus erat
+-  soleo, solere, solui, solitus sum
 11. attulit
-
+- affero, afferre, attuli, allatus (-a, -um)
 **Dictionary skills, 3: proper nouns and adjectives**
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
