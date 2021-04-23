@@ -81,6 +81,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 4. aves Stymphalides
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
+
 **Comparative and superlative forms**
 Translate the highlighted phrases in the following English sentences into Latin. Use these vocabulary items:
 
