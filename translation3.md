@@ -1,17 +1,24 @@
+**Needs revisions**
+
 **A. Grammatical Analysis**
 
 Augeae regis stercus bobile uno die *purgavit*, 
+
 > maiorem partem Iove adiutore; 
 
 > flumine admisso 
+
 totum stercus *abluit*.
 
-taurum cum quo Pasiphae *concubuit* 
+taurum cum quo Pasiphae *concubuit*  ❌ **You reversed the dependent/independent relation here.**
 > ex Creta insula Mycenis vivum *adduxit*.
 
 Diomedem Thraciae regem et equos quattuor eius, 
+
 > qui carne humana vescebantur, 
+
 cum Abdero famulo *interfecit*; 
+
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 
@@ -25,9 +32,9 @@ equorum autem nomina Podargus Lampon Xanthus Dinus.
 4. Explain the construction of the verbal unit *flumine admisso*.
 - Ablative absolute, flumine being the ablative singular and admisso being the perfect passive participle. 
 5. What are the gender, number, case, and antecedent of qui?
-- Feminine, plural, accusative; the antecedent of qui is equos. 
+- Feminine, plural, accusative; the antecedent of qui is equos. ❌ **The noun *equus, equi* is masculine.**
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-- The latin verb *sum* in the perfect tense (fuerent) must be understood. 
+- The latin verb *sum* in the perfect tense (fuerunt) must be understood. 
 
 **C. Literary Commentary**
 1. Diction: I found it interesting that Hyginus chose to omit the subject from the verb *adduxit.* This allows for better flow in the passage, 
@@ -38,7 +45,7 @@ This enhances the sentence by providing imagery (not just dung, but *stall* dung
 
 **Translation**
 He cleaned the stall dung of King Augeas in one day, the greater part with the helper Juppiter.
-All the dung washes away having been led in the river. 
+All the dung washes away having been led in the river. ❌ **Go back to your grammatical questions:  *stercus* is a direct object, no subject.**
 He prompted the alive bull to Mycenae from the island Crete with which Pasiphae had sexual intercourse with.
 He killed King Diomedes of Thraciae and the four horses of him, which were feeding upon human flesh, with the servant Abderum; 
 moreover, the names of the four horses were Podargus, Lampon, Xanthus, and Dinus. 
