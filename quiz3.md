@@ -16,7 +16,7 @@ Noun-adjective pairs (in various cases):
 - totus, tota, totum
 - stercus, stercoris, m. 
 3. ceruum ferocem
-- cervus, cervi, m.
+- ceruus, cerui 
 - ferox, ferocis 
 4. tantam vim
 - tantus, tanta, tantum
@@ -26,42 +26,42 @@ Noun-adjective pairs (in various cases):
 - sagitta, sagittae, f.
 6. cornibus aureis
 - auereus, aurea, aureum
-- cornu, cornus, n.
+- cornus, cornus, n.
 7. carne humana
 - humanus, humana, humanum 
-- carnis, carnis, f.
+- caro, carnis, f.
 8. draconem immanem
 - draco, draconis, m.
-- immanis, immanis, immane
+- immanis, immane
 9. mala aurea
-- malus, mala, malum
-- aurea, aureae, f.
+- malum, mali, n.
+- aureus, aurea, aureum
 
 **Dictionary skills, 2: verb forms**
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 1. transierat
-- transeo, transire, transivi, transitus (-a, -um)
+- transeo, transire, transivi, transitus 
 2. afflabat
-- afflo, afflare, afflavi, afflatus (-a, -um)
+- afflo, afflare, afflavi, afflatus 
 3. moriebatur
-- morior, morere, mortuus sum
+- morior, mori, -, mortuus sum
 4. exinteravit
-- exitero, exiterare, exiteravi, exiteratus (-a, -um)
+- exintero, exinterare, exinteravi, exinteratus 
 5. effugiebat
-- effugio, effugere, effugi, effugitus (-a, -um)
+- effugio, effugere, effugi, effugitus 
 6. adduxit
-- adduco, adducere, adduxi, adductus (-a, -um)
+- adduco, adducere, adduxi, adductus 
 7. iaculabantur
 - iaculor, iaculari, iaculatus sum
 8. vescebantur
-- vescor, vescere, vesci
+- vescor, vesci, -
 9. detraxit
-- detraho, detrahere, detraxi, detractus (-a, -um)
+- detraho, detrahere, detraxi, detractus 
 10. solitus erat
--  soleo, solere, solui, solitus sum
+-  soleo, solere, -, solitus sum
 11. attulit
-- affero, afferre, attuli, allatus (-a, -um)
+- affero, afferre, attuli, allatus
 
 **Dictionary skills, 3: proper nouns and adjectives**
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
@@ -82,7 +82,7 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 - Thracia, Thraciae, f.
 
 6. cum Abdero
--  Abderum, Abderi, n. 
+-  Abderus, Abderi, n. 
 
 7. Eurystheo regi
 - Eurystheus, Eurysthei, m. 
@@ -114,19 +114,28 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 
 1. The Hydra killed passers by with a great blowing of his poisonous breath.
 - Cum magne afflato sui venenati afflatus.
+- **magno afflatu**
 2. The Hydra killed passers by with a greater blowing of his poisonous breath.
 - Cum maior afflato sui venenati afflatus. 
+- **maoire afflatu**
 3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
 - Cum maximo afflato sui venenato afflatus.
+- **maximo afflatu**
 4. The victims died in great torment.
 - in magna cruciabilitate
+- **magno cruciatu**
 5. The victims died in greater torment.
 - in maiore cruciabilitate
+- **maiorem cruciatum**
 6. The victims died in the greatest torment.
 - in maxima cruciabilitate
+- **maximum cruciatum**
 7. Hercules cleaned a great part of the stables.
 - Partem magnam stabulorum 
+- **magnam partem**
 8. Hercules cleaned a greater part of the stables.
 - Partem maiorem stabulorum
+- **maiorem partem**
 9. Hercules cleaned the greatest part of the stables.
 - Partem maximam stabulorum
+- **maximam partem**
