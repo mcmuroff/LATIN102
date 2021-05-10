@@ -27,3 +27,10 @@
 - flammo, flammare, flammavi, flammatus “flame, burn”
 
 Cum Deianira, filia Oenei et uxor Herculis, vidit Iole, iuvenem et pulchram, adduco domum, ea machinatam sum ut ne privavi eam virum. Deianira famulum misit ad ferendam vestem tinctam in sanguine centauri Nessi Herculi, quem ea putavit esse philtrum. Hercules induit vestem, et statim flammavit. Hercules, lusus pro Nessum, iecit famulum, quem Deianira redisse vestum missus est, in mare. Hercules fuit deum, sed Deianira interfecit se ne factum ferret.   
+
+**REVISED #1**
+**Cum Deianira, filia Oenei et uxor Herculis, videret, Iolen adductam esse, Deianira coepit machinari, ne coniugio privaretur. 
+Deianira famulum misit ut daret Herculi vestem, sanguine centauri Nessi tinctam, quem putabat philtrum esse. 
+Hercules vestem induit statimque flammavit.
+Hercules servum objecit, quem Deianira misit ad dandum Herculi vestem, in mare. 
+Dicitur Herculem ad immortalitatem ortum esse, sed Deianira se interfecit ob factum. 
