@@ -1,3 +1,5 @@
+**Full credit**
+
 **Dictionary skills, 1: noun-adjective pairs**
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
