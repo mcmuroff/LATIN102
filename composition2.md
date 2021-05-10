@@ -33,4 +33,4 @@ Cum Deianira, filia Oenei et uxor Herculis, vidit Iole, iuvenem et pulchram, add
 Deianira famulum misit ut daret Herculi vestem, sanguine centauri Nessi tinctam, quem putabat philtrum esse. 
 Hercules vestem induit statimque flammavit.
 Hercules servum objecit, quem Deianira misit ad dandum Herculi vestem, in mare. 
-Dicitur Herculem ad immortalitatem ortum esse, sed Deianira se interfecit ob factum. 
+Dicitur Herculem ad immortalitatem ortum esse, sed Deianira se interfecit ob factum.**
